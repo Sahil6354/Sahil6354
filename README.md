@@ -1,33 +1,92 @@
 <h1 align="center">Hi 👋, I'm Sahil Pathan</h1>
-<h3 align="center">A passionate Mobile Application developer from India</h3>
+<h3 align="center">Software Engineer @ TCS | Backend Developer | Cloud & Microservices Enthusiast</h3>
 
+---
 
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Shopnideas**
+- 💼 Software Engineer at Tata Consultancy Services (TCS)
+- 🔥 Backend Focused Engineer (Java + Spring Boot)
+- ☁️ Cloud-Native & Microservices Architecture Enthusiast
+- 🐳 Experienced with Docker, Kubernetes & CI/CD
+- 🌱 Exploring Advanced System Design & AWS
 
-- 🌱 I’m currently learning **Flutter**
+---
 
-- 💬 Ask me about **Android/Flutter Application's**
+## 💼 Professional Experience
 
-- 📫 How to reach me **pathanamin5858@gmail.com**
+### 🏢 Tata Consultancy Services (April 2025 – Present)
+**Software Engineer**
 
-- ⚡ Fun fact **My nickname.**
+- Engineered scalable backend services using Java & Spring Boot (35% API performance improvement)
+- Designed RESTful microservices aligned with cloud-native architecture
+- Reduced deployment time by 45% using Docker-based CI/CD & Kubernetes rollouts
+- Optimized Angular frontend reducing rendering time by 30%
 
+### 🏢 Bootcoding (Oct 2023 – May 2024)
+**Software Engineer Intern (Remote)**
 
+- Built scalable Node.js & Express.js APIs for AI-powered platforms
+- Optimized Firebase data flows reducing latency by 25%
+- Delivered production-ready backend services in startup environment
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sahil pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil pathan" height="30" width="40" /></a>
-<a href="https://fb.com/sahil pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahil pathan" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_pathan43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_pathan43" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sahil_34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil_34" height="30" width="40" /></a>
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+Java | JavaScript | SQL | HTML/CSS
+
+### ⚙️ Backend
+Spring Boot | Node.js | Express.js | REST APIs | Microservices
+
+### 🎨 Frontend
+Angular | React.js
+
+### 🗄️ Database
+MongoDB | PostgreSQL | MySQL | Firebase
+
+### ☁️ Cloud & DevOps
+AWS | Docker | Kubernetes | CI/CD | RabbitMQ
+
+---
+
+## 🔥 Projects
+
+### 📚 StudyNotion
+Full-stack ed-tech platform built using Angular, Node.js, Express & MongoDB.
+
+### ☁️ Image Uploader with Real-Time Processing
+Serverless AWS project using:
+- S3 for storage
+- Lambda (Sharp) for image resizing
+- DynamoDB for metadata
+- CloudWatch for monitoring
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Ranked 456th globally in LeetCode Weekly Contest 110 (26,000+ participants)
+- 🏅 Top 10 in IEEE Sparkathon (500+ teams)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil6354&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil6354&layout=compact&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil6354&show_icons=true&locale=en&layout=compact" alt="sahil6354" /></p>
+## 📫 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil6354&show_icons=true&locale=en" alt="sahil6354" /></p>
+- LinkedIn: https://www.linkedin.com/in/sahilpathan01/
+- Portfolio: https://sahilpathanportfolio.netlify.app/
+- Email: sahilpathan4719@gmail.com
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil6354&" alt="sahil6354" /></p>
+---
+
+⭐️ From Sahil6354
